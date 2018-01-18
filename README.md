@@ -10,3 +10,13 @@
 9. add an example of the process to UNET
 10. write setup instructions for this project
 11. write a nice readme
+
+https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=17036&pm=14735
+
+https://wwwtc.wpengine.com/spacenet
+
+* Ramin Nabati
+* Alireza Rahimpour
+* Razieh Kaviani
+* Elliot Greenlee
+* Steven Patrick
