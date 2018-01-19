@@ -15,6 +15,8 @@ https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=17036
 
 https://wwwtc.wpengine.com/spacenet
 
+https://medium.com/the-downlinq/spacenet-road-detection-and-routing-challenge-part-i-d4f59d55bfce
+
 * Ramin Nabati
 * Alireza Rahimpour
 * Razieh Kaviani
